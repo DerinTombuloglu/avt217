@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#4EE4CD;
+	margin-left:10%;
+	margin-right:5%;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+header{
+	background-color: #669A1F;
+	margin-bottom:20px;
+} 
+nav{
+color:aliceblue;
+}
+
+li{list-style-type:none;display:inline;margin-right:10px
+}
+
+.postime{
+	color: darkred;
+	font-size:0.7em;
+}
+
+h2,p,h3{color:darkblue}
