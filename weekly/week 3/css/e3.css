@@ -6,7 +6,6 @@ body {
 	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 	margin-left:10%;
 	margin-right:5%;
-	font-size:20px;
 }
 header{
 	background-color:#59A225;
@@ -28,4 +27,5 @@ li{
 }
 
 h2,p,h3{color:darkblue}
+
 
