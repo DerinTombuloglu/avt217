@@ -1,0 +1,33 @@
+@charset "utf-8";
+body{
+	width:100;
+	line-height:1.6em
+
+}
+
+h1{font-family: discourse-middle-fill, sans-serif;
+font-style: normal;
+font-weight: 900;
+
+	
+}
+.style1 {font-family:Garamond;
+font-style: normal;
+font-weight: 100;
+	color: red;
+	
+}
+
+.style2 {font-family:Georgia;
+font-style: normal;
+font-weight: 100;
+	color: darkblue;
+	
+}
+
+.style3 {font-family:"Brush Script MT";
+font-style: normal;
+font-weight: 100;
+	color:coral;
+	
+}
