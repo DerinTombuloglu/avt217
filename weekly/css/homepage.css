@@ -1,0 +1,52 @@
+@charset "utf-8";
+body {
+ background-color:cornsilk;
+ 
+	line-height:1.6em;
+	
+}
+	h1{
+		font-family: fleisch-wolf, sans-serif;
+font-style: normal;
+font-weight: 400;
+	}
+
+
+	a:link{ color: darkblue;text-decoration: none}
+
+
+
+	a:visited{
+		
+}
+
+
+#wrapper{    width: 80%; 
+	margin-left:5%;background-color:cornsilk;float:left}
+
+	
+
+
+
+
+
+
+
+
+.weekly {
+	width: 45%;
+	float:left;
+	margin:0 5%
+		
+		
+}
+
+#project{
+	width:45%;
+	float:left;
+
+
+}
+.demo{font-weight: 100;font-style}
+
+
