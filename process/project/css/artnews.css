@@ -3,14 +3,26 @@
 }
 
 
-/* CSS Document */
+
+/* CSS Docume
+ */
 .header{width:100%;height:150px;box-sizing:border-box;margin-top:0 5px;background-color:deeppink; font-family: fleisch-wolf, sans-serif;
 font-style: normal;
 font-weight: 400;
 
 } 
-.menu{display: flex;justify-content: space-evenly;}
+.menu{display: flex;justify-content: space-evenly;width:75%;}
 
+
+#textbox{width: 60%; margin:0 auto;}
+
+.fullpage{
+	width:100%;height:2000px;float: left; margin-top: 0 5px;background-color:lightgray;font-family:fleisch-wolf, sans-serif;
+font-style: normal;
+font-weight: 400;
+	text-align: center; padding-top:100px;
+		
+}
 .column1{
 	width:50%;height:2000px;float: left; margin-top: 0 5px;background-color:lightgray;font-family:fleisch-wolf, sans-serif;
 font-style: normal;
@@ -25,20 +37,21 @@ font-weight: 400;
 	text-align: center;		
 		
 }
-.home{ width:5%;height:30px;position:relative;border:5px solid; margin-top: 0 5px;background-color:lightgray;font-family:fleisch-wolf, sans-serif;
+.home{ top:-50px;width:70px;height:30px;position:relative;border:5px solid; margin-top: 0 5px;background-color:lightgray;font-family:fleisch-wolf, sans-serif;
 font-style: normal;
 font-weight: 400;
 	text-align: center;
 }
-.searchbar{width: 200px;height:30px;left:80%;top:7px;position:relative;}
-.image1{width:2%;height:30px;margin-left:94%;margin-top:-70%; }
+.searchbar{top:-50px;width: 200px;height:30px;left:80%;position:relative;}
+.image1{top:-80px;width:2%;height:30px;margin-left:94%;position:relative;}
+.image2{top:-113px;width:2%;height:30px;margin-left:97%;position:relative;}
 
 .footer{width:100%;height:100px;float:left;box-sizing:border-box;margin-top:0 5px;background-color:black; font-family: fleisch-wolf, sans-serif;
 font-style: normal;
 font-weight: 400;
 
 } 
-.About{ width:5%;height:30px;position:relative;border:5px solid;margin-top: 0 5px;background-color:lightgray;font-family:fleisch-wolf, sans-serif;
+.About{ top:-50px;width:70px;height:30px;position:relative;border:5px solid;margin-top: 0 5px;background-color:lightgray;font-family:fleisch-wolf, sans-serif;
 font-style: normal;
 font-weight: 400;
 	text-align: center;
